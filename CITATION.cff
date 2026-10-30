@@ -4,7 +4,7 @@ title: "mmr-gene-explorer: testing gene associations with mismatch repair defici
 version: 1.1.0
 date-released: 2026-10-30
 license: MIT
-repository-code: "https://github.com/<your-username>/mmr-gene-explorer"
+repository-code: "https://github.com/ManiMuralidharan/mmr-gene-explorer"
 authors:
   - family-names: Mani
     given-names: Muralidharan

@@ -1,0 +1,18 @@
+# Data and results are never committed
+data/raw/**
+data/processed/**
+data/controlled/**
+results/**
+reports/**
+!**/.gitkeep
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+renv/library/
+renv/staging/
+renv/local/
+*.bak
+# OS
+.DS_Store
